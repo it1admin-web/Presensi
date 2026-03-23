@@ -270,7 +270,7 @@ img {
 }
 
 .sidebar-logo {
-    display: ;
+    display: flex;
     align-items: center;
     gap: var(--spacing);
     font-size: var(--font-size-xl);
