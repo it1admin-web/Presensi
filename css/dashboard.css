@@ -6,7 +6,7 @@
 
 /* Welcome Card Time-based Colors */
 .welcome-card.morning {
-    background: linear-gradient(135deg, #F59E0B 0%, #FBBF24 100%);
+    background: linear-gradient(135deg, #109854 0%, #109854 100%);
 }
 
 .welcome-card.afternoon {
